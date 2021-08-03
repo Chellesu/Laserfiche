@@ -7,3 +7,4 @@
 7. Apply the "myTable" CSS class to the collection
 8. Add 4 single line fields to the collection for the following: Street Address, City, State, and Postal
 9. Apply the following CSS classes to each field: address, city, state, postal
+10. Copy the contents of CSS and JavaScript into the CSS and JavaScript section in your Laserfiche Form.
