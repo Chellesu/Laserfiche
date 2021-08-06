@@ -1,0 +1,9 @@
+$(document).ready(function () { 
+$(".autogrow textarea").focus(function(){
+$('.autogrow textarea').each(function () { 
+ h(this); }).on('lookup change keyup', function () { 
+ h(this); }); function h(e) { 
+ $(e).css({'height':'auto','overflow-y':'hidden'}).height(e.scrollHeight); 
+ }
+});
+});
