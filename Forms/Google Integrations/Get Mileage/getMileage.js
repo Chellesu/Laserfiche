@@ -6,7 +6,7 @@ $(document).ready(function(){
   	$('.miles input').attr('readonly','True');
 }); 
   
-  const API_KEY = 'AIzaSyC_SajsdW24MRndK1RiTNYTQcu__n-Ayqk';
+  const API_KEY = 'YOUR API KEY HERE';
   $.getScript('https://maps.googleapis.com/maps/api/js?key=' + API_KEY + '&libraries=places',
               function (data, status) { 
                 $(".myTable").on('focus', '.pointA, .pointB', initAutocomplete); 
