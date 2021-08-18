@@ -6,8 +6,8 @@
 }
 .navBoxA, .navBoxB, .navBoxC {
 	background-color: #fff;
-	width: 30%;
-	margin: 10px;
+	width: 31%;
+	margin: 1%;
 	display: inline-block;
 	height: 200px;
 	vertical-align: top;
